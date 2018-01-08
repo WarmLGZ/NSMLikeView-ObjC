@@ -1,0 +1,21 @@
+{
+  "name": "NSMLikeView",
+  "version": "0.1.0",
+  "summary": "A short description of NSMLikeView.",
+  "homepage": "https://github.com/liguozhi/NSMLikeView",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "liguozhi": "liguozhi@xinpianchang.com"
+  },
+  "source": {
+    "git": "https://github.com/liguozhi/NSMLikeView.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "NSMLikeView/Classes/**/*"
+}

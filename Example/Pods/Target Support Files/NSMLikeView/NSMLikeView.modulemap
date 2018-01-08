@@ -1,0 +1,6 @@
+framework module NSMLikeView {
+  umbrella header "NSMLikeView-umbrella.h"
+
+  export *
+  module * { export * }
+}
