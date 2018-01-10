@@ -1,8 +1,8 @@
 {
   "name": "NSMLikeView",
   "version": "0.1.0",
-  "summary": "A short description of NSMLikeView.",
-  "homepage": "https://github.com/liguozhi/NSMLikeView",
+  "summary": "NSMLikeView is a view of showing like animation.",
+  "homepage": "https://github.com/WarmLGZ/NSMLikeView-ObjC",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
@@ -11,7 +11,7 @@
     "liguozhi": "liguozhi@xinpianchang.com"
   },
   "source": {
-    "git": "https://github.com/liguozhi/NSMLikeView.git",
+    "git": "https://github.com/WarmLGZ/NSMLikeView-ObjC.git",
     "tag": "0.1.0"
   },
   "platforms": {
